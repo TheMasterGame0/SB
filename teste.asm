@@ -1,5 +1,0 @@
-      input       N      
-
-
-
-LOAD N

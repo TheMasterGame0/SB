@@ -1,0 +1,2 @@
+input       N      
+LOAD N

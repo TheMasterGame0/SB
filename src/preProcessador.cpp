@@ -6,7 +6,7 @@
 using namespace std;
 
 int preProcessar(){
-  ifstream arquivo("teste.asm"); // abre o arquivo para leitura
+  ifstream arquivo("/home/eduardomarciano/Documents/GitHub/SB/tests/preProcessador/00.asm"); // abre o arquivo para leitura
   
   if (!arquivo.is_open()) {
       cerr << "Erro ao abrir o arquivo." << endl;
